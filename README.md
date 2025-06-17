@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎤 PollGen AI - Smart Poll Generation Platform
 
 An AI-powered educational platform that generates intelligent poll questions from voice recordings using OpenAI's Whisper and GPT-3.5-turbo.
@@ -176,3 +177,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Built with ❤️ for enhanced educational experiences**
+=======
+# pollgen-ai
+>>>>>>> e1b69f945e032166e998b7e86d36fa7b675a7884
